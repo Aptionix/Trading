@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(python diagnose.py)",
+      "WebFetch(domain:docs.trading212.com)",
+      "Bash(python auth_probe.py)",
+      "Bash(python -c ' *)",
+      "WebFetch(domain:t212public-api-v2-docs.redoc.ly)"
+    ]
+  }
+}

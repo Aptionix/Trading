@@ -1,0 +1,8 @@
+# Terminal Dark theme — Bloomberg/terminal feel
+[theme]
+base = "dark"
+primaryColor = "#00E5A0"            # neon green accent (widgets, highlights)
+backgroundColor = "#0E1117"         # near-black page background
+secondaryBackgroundColor = "#1A1D24" # panels, sidebar, containers
+textColor = "#E6E6E6"               # off-white body text
+font = "monospace"
